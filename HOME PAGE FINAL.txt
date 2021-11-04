@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Asher Lentz</title>
+</head>
+<body>
+
+<h1>Asher Lentz</h1>
+<br>
+<p>About</p>
+<p>Writing</p>
+<p>Translation</p>
+<p>Film + Animation</p>
+<p>Illustration (password: thisisnotthecorrectpassword)</p>
+<p>Contact</p>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<p>Virus downloading... 95% complete...</p>
+
+</body>
+</html>
